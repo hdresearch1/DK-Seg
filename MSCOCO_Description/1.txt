@@ -1,0 +1,1 @@
+person,person: Human form, typically defined by a head, torso, limbs.Skin tones vary, clothing can be any colorSoft, flexible (skin), often clothedMoves, speaks, and performs various actions based on context

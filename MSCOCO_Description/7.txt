@@ -1,0 +1,1 @@
+vehicle,train: Long, with carriages connected to each otherOften metallic with specific colors for brandingMetal body, glass windows, and rubber wheelsUsed for long-distance transportation along tracks

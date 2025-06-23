@@ -1,0 +1,1 @@
+vehicle,car: Four wheels, a body with windows, doors, and a roofCan be any color, typically metallic or matte finishesMetal body, glass windows, rubber tiresUsed for personal transportation

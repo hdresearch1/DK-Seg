@@ -1,0 +1,1 @@
+food,sandwich: Typically rectangular or square, depending on the typeVaries based on ingredients (e.g., white or brown bread with fillings)Soft bread with fillings that can range from soft (e.g., cheese) to crunchy (e.g., lettuce)A food item made by placing fillings (meat, vegetables, cheese) between slices of bread

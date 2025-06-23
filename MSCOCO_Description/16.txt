@@ -1,0 +1,1 @@
+animal,bird: Typically has a small body, wings, and beakVaries widely (bright colors, white, black, or brown)Feathers (soft and light)Capable of flight (for most species), chirping, or tweeting

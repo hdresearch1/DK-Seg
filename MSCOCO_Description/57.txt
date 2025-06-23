@@ -1,0 +1,1 @@
+food,carrot: Long, tapered rootOrange, though there are also purple, red, and yellow varietiesFirm and crunchy, with a smooth outer surfaceEaten raw, cooked, or juiced as a vegetable

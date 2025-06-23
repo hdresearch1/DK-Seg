@@ -1,0 +1,1 @@
+vehicle,airplane: Large, with wings, a fuselage, and a cockpitCan vary, often with airline branding or simple white with logosMetal or composite material with smooth finishesUsed for air travel, requiring a runway for takeoff and landing
