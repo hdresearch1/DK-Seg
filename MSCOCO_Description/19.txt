@@ -1,1 +1,0 @@
-animal,horse: Large body with four legs, long tail, and maneCoat colors include brown, black, white, grey, and moreFur (short, thick, and coarse)Known for running fast, typically used for riding or pulling carts

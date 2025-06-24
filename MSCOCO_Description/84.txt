@@ -1,1 +1,0 @@
-indoor,book: Rectangular, typically bound with pages inside.Book covers can vary in color; common colors are dark tones (black, brown) with text.Paper pages, cardboard or leather cover.Used for reading, learning, or decoration.

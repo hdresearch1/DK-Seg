@@ -1,1 +1,0 @@
-vehicle,bicycle: Two wheels, a frame with handlebars, pedals, and a seatCan vary widely in color (metallic, black, bright colors)Metal frame, rubber tires, and soft seatUsed for transportation or sport (cycling)

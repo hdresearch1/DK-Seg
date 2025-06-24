@@ -1,1 +1,0 @@
-indoor,clock: Round or square with a face showing numbers or digital display.Usually black, white, or metallic.Smooth glass or plastic face with numerical markings or digital interface.Used for telling time, may have alarm or timer functions.

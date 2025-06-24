@@ -1,1 +1,0 @@
-vehicle,bus: Large, rectangular, with windows and multiple rows of seatsTypically yellow (school buses) or multi-colored for city busesMetal body with rubber tiresUsed for transporting large groups of people on roads
