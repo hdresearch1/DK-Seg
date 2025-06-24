@@ -35,4 +35,3 @@ Semantic enrichment of encoder layers (e.g., DK-Seg)
 
 ## 📜 License
 This dataset is released under the CC BY 4.0 License.
-Please cite our associated paper if you use it in your research.
